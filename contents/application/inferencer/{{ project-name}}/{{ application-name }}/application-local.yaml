@@ -1,0 +1,6 @@
+env:
+  LLM_AI_AGENT_HOST: "localhost"
+  LLM_AI_AGENT_PORT: "8000"
+  RAY_CLUSTER_URL: "localhost"
+  RAY_CLIENT_SERVER_PORT: "10001"
+  RAY_SERVE_PORT: "8080"

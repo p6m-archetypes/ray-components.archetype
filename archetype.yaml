@@ -1,0 +1,12 @@
+---
+description: "A Python Project Scaffolding archetype"
+authors: ["OneGoodDev"]
+languages: []
+frameworks: []
+tags: []
+
+requires:
+  archetect: "2.0.0-ALPHA.10"
+
+components:
+  org-prompts: git@github.com:p6m-dev/org-prompts.archetype.git
